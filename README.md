@@ -37,7 +37,7 @@ https://github.com/<your-username>/ai_recipe_creatorGenerator
    - Replace `'your-api-key-here'` with your actual Cohere API key
 
 5. Run the app:
-   streamlit run app.py
+   streamlit run ai_recipe_creator.py
 
 -------------------------------------------
 🧠 How It Works
